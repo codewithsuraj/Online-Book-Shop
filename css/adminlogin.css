@@ -1,0 +1,38 @@
+
+body { 
+     background-image: url(../image/home.jpg);
+     background-size: cover;
+}
+
+.home{
+     background-color: #8042B7;
+}
+
+.cont h1 {
+     color: white;
+     margin: 25px auto;
+     width: 60%;
+     padding: 15px;
+     background-image: linear-gradient(to right, black, transparent );
+}
+.cont {
+     width: 70%;
+     margin: 0 auto;
+     text-align: center;
+}
+
+.cont .login {
+     background-color: #FD4040;
+     width: 70%;
+}
+
+
+.cont .home {
+     float: left;
+}
+
+.cont form {
+     width: 40%;
+     margin: 0 auto;
+}
+

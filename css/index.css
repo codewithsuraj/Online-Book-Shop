@@ -1,0 +1,27 @@
+* {box-sizing: border-box;}
+.main{
+     margin: 0 auto;
+     width: 30%;
+}
+
+body { 
+     background-image: url(../image/home.jpg);
+     background-size: cover;
+}
+.container h2 {
+     color: white;
+     margin: 50px auto;
+     width: 60%;
+     padding: 15px;
+     background-image: linear-gradient(to right, black, transparent );
+}
+
+.admin {float: right; margin-bottom: 15px; background-color: #8042B7;}
+.otp { width: 100%; margin-bottom: 15px;}
+.submit {
+     display: inline-flex;
+}
+/* .login {display: inline;} */
+.reg {float: right; width: 45%; background-color: #32B729;}
+.login {float: left; width: 45%; background-color: #FD4040;}
+
